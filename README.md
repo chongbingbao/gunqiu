@@ -2,7 +2,5 @@ SeededGrow2d
 ============
 
 Sample Code for my blog CHNHIDEYOSHI
-
-http://www.cnblogs.com/chnhideyoshi/
-
+http://www.tuicool.com/articles/iUvMjm
 Code for my blog
